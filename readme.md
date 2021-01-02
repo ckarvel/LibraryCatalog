@@ -1,5 +1,7 @@
 # LibraryCatalog
 
+Making a change.
+
 A GUI application to query into our library catalog
 
 You will learn:
